@@ -1,0 +1,19 @@
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ],
+  "plugins":[
+    "@babel/plugin-transform-runtime"
+    // ["import",{ "libraryName": "antd" }],
+    // [
+    //   "import",
+    //   {
+    //     "libraryName": "@ant-design/icons",
+    //     "libraryDirectory": "es/icons",
+    //     "camel2DashComponentName": false
+    // },
+    //   "@ant-design/icons"
+    // ]
+  ]
+}

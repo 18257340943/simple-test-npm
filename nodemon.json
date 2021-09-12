@@ -1,0 +1,11 @@
+{
+  "ext": "js,jsx,css,.d.ts",
+  "verbose": false,
+  "ignore": [
+    "node_modules/"
+  ],
+  "watch": "src/",
+  "exec": "webpack",
+  "debug": true,
+  "delay": 1000
+}
